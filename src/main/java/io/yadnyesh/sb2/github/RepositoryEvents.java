@@ -2,7 +2,6 @@ package io.yadnyesh.sb2.github;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import java.lang.reflect.Type;
 import java.time.OffsetDateTime;
 
 public class RepositoryEvents {
